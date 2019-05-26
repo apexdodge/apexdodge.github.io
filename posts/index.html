@@ -2,10 +2,22 @@
 layout: default
 title: Zack Schwartz - Writings and Works
 ---
-<h1>{{ page.title }}</h1>
-<ul class="posts">
 
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<section class="resume-section p-3 p-lg-5 d-flex justify-content-center">
+  <div class="w-100">
+    <h2 class="mb-5">{{ page.title }}</h2>
+
+    {% for post in site.posts %}
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+        <div class="subheading mb-3">{{ post.date | date_to_string }}</div>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">June 2018 - Present</span>
+      </div>
+    </div>
+    
+    {% endfor %}
+  </div>
+</section>
