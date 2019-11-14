@@ -49,6 +49,7 @@ bluth_page_subtitle:
   * [When I Say No, I Feel Guilty](http://amzn.to/1WA5qiD) &#8211; Learn to become more assertive
   * [Ask: The Counter Intuitive Online Formula ](http://amzn.to/1h1pzNj) &#8211; Sales funnel for online marketing
   * [BIFF: Quick Responses to High Conflict People](http://amzn.to/1SlrWu2) &#8211; We live in a Culture of Blame and Disrespect in which emails, social media posts, and personal attacks are on the increase. We must learn to respond to people who communicate this way &#8212; people with high-conflict personalities.
+  * [One Mission: How Leaders Build a Team of Teams](https://amzn.to/33ZC4Cw) Great book and setting the mission for your company or unit and aligning everyone's goals by creating teams that work together.
   * [Thomas Jefferson and the Tripoli Pirates](http://amzn.to/21PPiJp) &#8211; the true, dramatic story of the conflict between the new United States and the pirates of north Africa.
   * [Red Platoon: A True Story of American Valor](http://amzn.to/1Sdf2Ke) &#8211; U.S. Forces fight a heroic battle at COP Keating in 2009 Afghanistan.
   * [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup-ebook/dp/B07C8D75NZ) &#8211; Follow the rise, bust mostly fall of Theranos. A medical device startup that attempted to bring cheaper and faster blood testing to American households. It did not go as planned&#8230;
