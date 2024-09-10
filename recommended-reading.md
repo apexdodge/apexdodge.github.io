@@ -58,6 +58,11 @@ bluth_page_subtitle:
   * [Leadership is Language: The Hidden Power of What You Say--And What You Don't](https://www.amazon.com/Leadership-Language-Hidden-Power-Say-ebook/dp/B07L2KL5XV/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1626655079&sr=1-1).  A great book on leadership that takes you through real life examples. An actual playbook with actionable guidance on running an operations team.
   * [The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://amzn.to/3ERdhTm). This book really helps you understand your thought process and evaluate your decision making, political identity, unconscious bias, and that in others.
   * [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://amzn.to/3wEdisq). A very sobering, but eye-opening book detailing the rise and fall of empires throughout history, with a focus on world reserve currencies, the decline of the United States, and the rise of China.
-  * [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/gp/product/B005K0AYH4).
+  * [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/gp/product/B005K0AYH4)
   * [Culture Code: The Secrets of Highly Successful Groups](https://www.amazon.com/gp/product/B01MSY1Y6Z/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1)
   * [Clone Yourself: Build a Team that Understands Your Vision, Shares Your Passion, and Runs Your Business for You](https://www.amazon.com/gp/product/B0775VG1CQ/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1)
+  * [Superforecasting: The Art and Science of Prediction](https://amzn.to/4cZWGgT)
+  * [Clear Thinking: Turning Ordinary Moments Into Extraordinary Results](https://amzn.to/3XnjhxV)
+  * [Originals: How Non-Conformists Move the World](https://amzn.to/4gn45cQ)
+  * [The Blank Slate: Modern Denial of Human Nature](https://amzn.to/3XEvmAr)
+  * [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://amzn.to/3XAV34G)
