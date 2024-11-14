@@ -66,3 +66,4 @@ bluth_page_subtitle:
   * [Originals: How Non-Conformists Move the World](https://amzn.to/4gn45cQ)
   * [The Blank Slate: Modern Denial of Human Nature](https://amzn.to/3XEvmAr)
   * [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://amzn.to/3XAV34G)
+  * [Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon](https://a.co/d/0RE7H8Q)
