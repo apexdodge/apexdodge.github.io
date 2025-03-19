@@ -67,3 +67,4 @@ bluth_page_subtitle:
   * [The Blank Slate: Modern Denial of Human Nature](https://amzn.to/3XEvmAr)
   * [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://amzn.to/3XAV34G)
   * [Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon](https://a.co/d/0RE7H8Q)
+  * [The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/The-Power-Broker-Robert-A-Caro-audiobook/dp/B0051X6ZQ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.s1LCvMXYFsy00zDx5Hw9v7TqnxsBGXmCcvaBiOuak_EI0VAPIBALnJeUvwkqclmP1oqQGuOlIQaMTKhuV2oHjjBix0qhS1Iyw1O18TXGTO046cK-4xSaLISP21MMdDsJiMFjpU9lgl5f-KrtOp5S3vR7_vHlQWisFzQY_RPnb6MZxXIx00BvmTG9ilb6tUOJPwrc0snH-Sizsjj3OST8sLxJh_imhbT5Ly91UAwXU0A.DDl7AVcdrxfdfBymKIuUVtpvzaPXAli1bFMQNjK3R14&dib_tag=se&keywords=the+power+broker&qid=1742398737&sr=8-1)
