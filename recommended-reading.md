@@ -19,7 +19,7 @@ bluth_page_subtitle:
   * <a href="http://amzn.to/13G3afO" target="_blank">The Improv Handbook: Ultimate Guide to Improvising in Comedy, Theatre, and Beyond</a>
   * <a href="http://amzn.to/12uUaup" target="_blank">The Power of Now</a>
   * <a href="http://amzn.to/YNRY8X" target="_blank">Guns, Germs, and Steel: The Fates of Human Societies</a>
-  * <a href="http://amzn.to/108dKrl" target="_blank">Atlas Shrugged</a>
+  * <a href="http://amzn.to/108dKrl" target="_blank">Atlas Shrugged</a> (fiction)
   * <a href="http://amzn.to/Wvmsm3" target="_blank">The Making of the Atomic Bomb</a> (S-tier)
   * <a href="http://amzn.to/15yp2Ic" target="_blank">Impact Equation</a>
   * <a href="http://amzn.to/ZdlysO" target="_blank">The One Minute Manager</a>
@@ -31,12 +31,12 @@ bluth_page_subtitle:
   * <a href="http://amzn.to/14ZM3BF" target="_blank">Bargaining for Advantage</a>
   * <a href="http://amzn.to/10ug3XZ" target="_blank">Barbarians at the Gate: The Fall of RGR Nabisco</a> (S-tier)
   * [Accounting Made Simple](http://amzn.to/18W2wgU)
-  * <a href="http://amzn.to/169yqBb" target="_blank">Killer Angels</a>
+  * <a href="http://amzn.to/169yqBb" target="_blank">Killer Angels</a> (fiction)
   * <a href="http://amzn.to/1eXUUuA" target="_blank">Unbroken</a>
   * [Predictable Revenue](http://amzn.to/19uJGts)
   * <a href="http://http//amzn.to/1ijh6kK" target="_blank">Word of Mouth Marketing: How Smart Companies Get People Talking</a>
   * <a href="http://amzn.to/1amTGv6" target="_blank">Destiny of the Republic</a>
-  * <a href="http://amzn.to/L0HCEb" target="_blank">Slaughterhouse Five</a>
+  * <a href="http://amzn.to/L0HCEb" target="_blank">Slaughterhouse Five</a> (fiction)
   * [Thinking, Fast and Slow](http://amzn.to/Wb6XRB)
   * [The Devil in the White City](http://amzn.to/1rRwI6o)
   * [The World Without Us](http://amzn.to/VMhJwC)
