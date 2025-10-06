@@ -71,3 +71,4 @@ bluth_page_subtitle:
   * [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://amzn.to/47adbHJ)
   * [The Everything Store: Jeff Bezos and the Age of Amazon](https://amzn.to/47EBNZv)
   * [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://amzn.to/4p1r1Ty)
+  * [How Countries Go Broke: The Big Cycle](https://amzn.to/3KuVLwu)
