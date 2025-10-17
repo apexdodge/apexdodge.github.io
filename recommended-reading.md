@@ -73,3 +73,4 @@ bluth_page_subtitle:
   * [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://amzn.to/4p1r1Ty)
   * [How Countries Go Broke: The Big Cycle](https://amzn.to/3KuVLwu)
   * [Save the Cat: The Last Book on Screenwriting You Will Ever Need](https://amzn.to/3WwmNpG)
+  * [Think Faster, Talk Smarter: How to Speak Successfully When Put On The Spot](https://amzn.to/4nUeGPR)
