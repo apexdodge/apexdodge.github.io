@@ -74,3 +74,4 @@ bluth_page_subtitle:
   * [How Countries Go Broke: The Big Cycle](https://amzn.to/3KuVLwu)
   * [Save the Cat: The Last Book on Screenwriting You Will Ever Need](https://amzn.to/3WwmNpG)
   * [Think Faster, Talk Smarter: How to Speak Successfully When Put On The Spot](https://amzn.to/4nUeGPR)
+  * [Plato and the Tyrant: The Fall of Greece's Greatest Dynasty and the Making of a Philosophic Masterpiece](https://amzn.to/3YFFicx)
