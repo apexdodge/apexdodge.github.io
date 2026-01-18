@@ -75,3 +75,4 @@ bluth_page_subtitle:
   * [Save the Cat: The Last Book on Screenwriting You Will Ever Need](https://amzn.to/3WwmNpG)
   * [Think Faster, Talk Smarter: How to Speak Successfully When Put On The Spot](https://amzn.to/4nUeGPR)
   * [Plato and the Tyrant: The Fall of Greece's Greatest Dynasty and the Making of a Philosophic Masterpiece](https://amzn.to/3YFFicx)
+  * [The Goal: A Process of Ongoing Improvement](https://amzn.to/4jORp0P)
