@@ -56,8 +56,8 @@ bluth_page_subtitle:
   * [Shoe Dog: A Memoir by the Creator of Nike](https://amzn.to/2EDLsBj)
   * [Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice](https://www.amazon.com/Red-Notice-Finance-Murder-Justice/dp/1476755744)
   * ♥️ [Leadership is Language: The Hidden Power of What You Say--And What You Don't](https://www.amazon.com/Leadership-Language-Hidden-Power-Say-ebook/dp/B07L2KL5XV/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1626655079&sr=1-1)
-  * [The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://amzn.to/3ERdhTm).
-  * [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://amzn.to/3wEdisq)
+  * ♥️ [The Scout Mindset: Why Some People See Things Clearly and Others Don't](https://amzn.to/3ERdhTm).
+  * ♥️ [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://amzn.to/3wEdisq)
   * [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/gp/product/B005K0AYH4)
   * [Culture Code: The Secrets of Highly Successful Groups](https://www.amazon.com/gp/product/B01MSY1Y6Z/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1)
   * [Clone Yourself: Build a Team that Understands Your Vision, Shares Your Passion, and Runs Your Business for You](https://www.amazon.com/gp/product/B0775VG1CQ/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1)
