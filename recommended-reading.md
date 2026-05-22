@@ -20,7 +20,7 @@ bluth_page_subtitle:
   * <a href="http://amzn.to/12uUaup" target="_blank">The Power of Now</a>
   * <a href="http://amzn.to/YNRY8X" target="_blank">Guns, Germs, and Steel: The Fates of Human Societies</a>
   * <a href="http://amzn.to/108dKrl" target="_blank">Atlas Shrugged</a> (fiction)
-  * ♥️ <a href="http://amzn.to/Wvmsm3" target="_blank">The Making of the Atomic Bomb</a> (S-tier)
+  * 👑 <a href="http://amzn.to/Wvmsm3" target="_blank">The Making of the Atomic Bomb</a>
   * <a href="http://amzn.to/15yp2Ic" target="_blank">Impact Equation</a>
   * <a href="http://amzn.to/ZdlysO" target="_blank">The One Minute Manager</a>
   * <a href="http://amzn.to/13G3zyQ" target="_blank">The Five Dysfunctions of a Team</a>
@@ -29,7 +29,7 @@ bluth_page_subtitle:
   * ♥️ <a href="http://amzn.to/ZdNcUB" target="_blank">Surely You’re Joking Mr. Feynman</a>
   * <a href="http://amzn.to/Yfebn3" target="_blank">The Art of Strategy</a>
   * <a href="http://amzn.to/14ZM3BF" target="_blank">Bargaining for Advantage</a>
-  * ♥️ <a href="http://amzn.to/10ug3XZ" target="_blank">Barbarians at the Gate: The Fall of RGR Nabisco</a> (S-tier)
+  * 👑 <a href="http://amzn.to/10ug3XZ" target="_blank">Barbarians at the Gate: The Fall of RGR Nabisco</a>
   * [Accounting Made Simple](http://amzn.to/18W2wgU)
   * <a href="http://amzn.to/169yqBb" target="_blank">Killer Angels</a> (fiction)
   * <a href="http://amzn.to/1eXUUuA" target="_blank">Unbroken</a>
@@ -67,7 +67,7 @@ bluth_page_subtitle:
   * [The Blank Slate: Modern Denial of Human Nature](https://amzn.to/3XEvmAr)
   * [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness](https://amzn.to/3XAV34G)
   * [Rocket Men: The Daring Odyssey of Apollo 8 and the Astronauts Who Made Man's First Journey to the Moon](https://a.co/d/0RE7H8Q)
-  * ♥️ [The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/The-Power-Broker-Robert-A-Caro-audiobook/dp/B0051X6ZQ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.s1LCvMXYFsy00zDx5Hw9v7TqnxsBGXmCcvaBiOuak_EI0VAPIBALnJeUvwkqclmP1oqQGuOlIQaMTKhuV2oHjjBix0qhS1Iyw1O18TXGTO046cK-4xSaLISP21MMdDsJiMFjpU9lgl5f-KrtOp5S3vR7_vHlQWisFzQY_RPnb6MZxXIx00BvmTG9ilb6tUOJPwrc0snH-Sizsjj3OST8sLxJh_imhbT5Ly91UAwXU0A.DDl7AVcdrxfdfBymKIuUVtpvzaPXAli1bFMQNjK3R14&dib_tag=se&keywords=the+power+broker&qid=1742398737&sr=8-1) (S-tier)
+  * 👑 [The Power Broker: Robert Moses and the Fall of New York](https://www.amazon.com/The-Power-Broker-Robert-A-Caro-audiobook/dp/B0051X6ZQ4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.s1LCvMXYFsy00zDx5Hw9v7TqnxsBGXmCcvaBiOuak_EI0VAPIBALnJeUvwkqclmP1oqQGuOlIQaMTKhuV2oHjjBix0qhS1Iyw1O18TXGTO046cK-4xSaLISP21MMdDsJiMFjpU9lgl5f-KrtOp5S3vR7_vHlQWisFzQY_RPnb6MZxXIx00BvmTG9ilb6tUOJPwrc0snH-Sizsjj3OST8sLxJh_imhbT5Ly91UAwXU0A.DDl7AVcdrxfdfBymKIuUVtpvzaPXAli1bFMQNjK3R14&dib_tag=se&keywords=the+power+broker&qid=1742398737&sr=8-1)
   * [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://amzn.to/47adbHJ)
   * [The Everything Store: Jeff Bezos and the Age of Amazon](https://amzn.to/47EBNZv)
   * ♥️ [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](https://amzn.to/4p1r1Ty)
